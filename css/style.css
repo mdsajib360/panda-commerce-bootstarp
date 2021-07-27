@@ -1,0 +1,30 @@
+.panda-bg-info{
+    background-color: #fceae8;
+    border-radius: 10px;
+    
+   
+}
+
+.categories img{
+    width: 100px;
+}
+.price{
+    color: #FF136F;
+}
+.panda-btn{
+    background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
+    background-color: ;
+    color: white;
+    border-radius: 8px;
+    padding: 9px 25px;
+    border: none;
+}
+.slider-area {
+   margin-top: 8%;
+   margin-bottom: 5%;
+   border-radius: 50px;
+}
+.orange-bg{
+    
+    background-color: #fceae8;
+}
